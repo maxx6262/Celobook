@@ -31,7 +31,7 @@ interface IERC20Token {
  *      contract is ownable to manage debug during beta period
 */
 
-contract Marketplace {
+contract Celobook {
     address  payable _owner;
 
     string      public   _nameToken      = "CeloBookToken";
